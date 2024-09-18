@@ -3,7 +3,7 @@ qiskit circuiots on IBM Quantum
 
 <br>
 
-https://github.com/user-attachments/assets/1a2ce32d-d0dc-41d2-8b64-ba3d682e7cd4
+ ### <p align="center"> <img src="https://github.com/user-attachments/assets/1a2ce32d-d0dc-41d2-8b64-ba3d682e7cd4"/>
 
 <br>
 
@@ -50,6 +50,9 @@ Now that Qiskit is installed, it's time to begin working with Qiskit. The essent
 1. Define and build a quantum circuit that represents the quantum state
 2. Define the classical output by measurements or a set of observable operators
 3. Depending on the output, use the primitive function `sampler` to sample outcomes or the `estimator` to estimate values.
+
+![depth](https://github.com/user-attachments/assets/82b23d5c-6723-45f9-9f1a-ae31d424ccaa)
+
 
 Create an example quantum circuit using the `QuantumCircuit` class:
 
