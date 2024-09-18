@@ -1,14 +1,8 @@
 <br><br>
 
-# qiskit -  circuiots on IBM Quantum
-<br>
 
- <p align="center">
-<img src="https://github.com/user-attachments/assets/1a2ce32d-d0dc-41d2-8b64-ba3d682e7cd4"/>
 
-<br>
-
-# Qiskit
+# Qiskit - Circuits on IBM Quantum
 
 [![License](https://img.shields.io/github/license/Qiskit/qiskit.svg?)](https://opensource.org/licenses/Apache-2.0) <!--- long-description-skip-begin -->
 [![Current Release](https://img.shields.io/github/release/Qiskit/qiskit.svg?logo=Qiskit)](https://github.com/Qiskit/qiskit/releases)
@@ -28,6 +22,13 @@ It also contains a transpiler that supports optimizing quantum circuits, and a q
 For more details on how to use Qiskit, refer to the documentation located here:
 
 <https://docs.quantum.ibm.com/>
+
+<br>
+
+### <p align="center">
+<img src="https://github.com/user-attachments/assets/1a2ce32d-d0dc-41d2-8b64-ba3d682e7cd4"/>
+
+<br>
 
 
 ## Installation
